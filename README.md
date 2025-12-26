@@ -25,21 +25,12 @@ A **pure NumPy** implementation of a fully connected neural network trained on M
 | `train.py` | Training loop with mini-batch SGD and model serialization |
 | `test.py` | Model evaluation, accuracy metrics, and visualizations |
 
-## 🛠 Requirements
-
-```
-numpy>=1.20.0
-pandas>=1.2.0
-matplotlib>=3.3.0
-seaborn>=0.11.0
-scikit-learn>=0.24.0
-```
 
 ## 📦 Installation
 
 ```bash
 # Clone the repository
-git clone <https://github.com/Ram-ambati/Mnist-NN.git>
+git clone https://github.com/Ram-ambati/Mnist-NN.git
 cd "Mnist-NN"
 
 # Install dependencies
@@ -157,3 +148,4 @@ Typical results after 10 epochs:
 ## 📝 License
 
 MIT License - feel free to use this for learning and projects!
+
